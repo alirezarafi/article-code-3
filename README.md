@@ -1,7 +1,7 @@
 # article-code-3
 fopid-trajectory-tracking
 # README - Fractional-Order PID (FOPID) Controller for Path Planning and Obstacle Avoidance
-
+Journal Article Title: Path Planning and Trajectory Tracking Using Type-2/Type-3 Fuzzy Control and Bio-Inspired Optimization for Autonomous Mobile Robots Journal: Applied Soft Computing Publisher: Elsevier DOI: https://doi.org/10.1016/j.asoc.2026.115622
 This code implements a mobile robot navigation framework that combines the **Dragonfly Optimization Algorithm** for global path planning with a **fractional-order PID (FOPID)** controller for speed and heading tracking, plus a fuzzy obstacle-avoidance controller.
 
 ### Requirements:
